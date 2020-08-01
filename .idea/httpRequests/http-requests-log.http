@@ -1,0 +1,19 @@
+GET http://localhost:8011/loadread
+Accept: application/json;charset=UTF-8
+
+<> 2020-07-26T112717.500.json
+
+###
+
+GET http://localhost:8011/test
+
+<> 2020-03-11T032419.400.json
+
+###
+
+GET http://localhost:8011/test
+
+<> 2020-03-11T031440.400.json
+
+###
+
